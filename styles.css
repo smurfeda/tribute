@@ -1,1 +1,46 @@
-/* Copy and paste your CSS from CodePen into here */
+ html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 15px;
+  }
+  h1 { 
+    font-size: 30px;
+    color: purple;
+    font-family: italic, helvetica;
+    text-align: center;
+    
+  }
+  h2 {
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+  }
+  h3 {
+    font-size: 20px;
+    text-align: center;
+  }
+  body {
+    font: georgia, sans-serif;
+    color: purple;
+    margin: 0;
+    padding: 0;
+    background-color: yellow;
+    line-height: 20px;
+  }
+  p {
+    font-size: 16px;
+    font-family: open-sans;
+    color: blue;
+    margin-top: 0;
+    text-align: center;
+  }
+  il {
+    font-size: 20;
+  }
+  #image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+  }
